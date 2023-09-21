@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba para el modulo 2 del PrepCourse de Hnery
+Este proyecto de prueba de como crear un repositorio y clonarlo desde github a micomputadora  
